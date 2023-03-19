@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Cloud daybed",
+      "price": 109.95,
+      "description": "Cloud by Say Meow is a durable and very beautiful scratching post. Able to withstand not only the weight of the cat, but also its owner.",
+      "category": { "title": "Other stuff", "value": "other-stuff" },
+      "image": "/images/products/laybad.webp"
+    },
+    {
+      "id": 2,
+      "title": "Feeder for cats and dogs automatic Petrust PP004, 6 l. black",
+      "price": 22.3,
+      "description": "The pet feeder is modern and comfortable. Exceptional design and convenience will allow you and your pets to enjoy their meals",
+      "category": { "title": "Other stuff", "value": "other-stuff" },
+      "image": "/images/products/feeder.jpg"
+    },
+    {
+      "id": 3,
+      "title": "RESTEQ Pet Clothes Cat Dinosaur Costume Size L",
+      "price": 55.99,
+      "description": "Your cat will be delighted with such a comfortable outfit. Warm plush suit with hood is fluffy and warm.",
+      "category": { "title": "Other stuff", "value": "other-stuff" },
+      "image": "/images/products/clth.webp"
+    },
+    {
+      "id": 4,
+      "title": "House bed yurt for cats dogs with pillow premium quality with toy",
+      "price": 151.99,
+      "description": "No need to wean your fluffy from jumping into your bed, now he will have his own ... or rather, a designer house-yurt, in which he will enjoy rest after chasing his own tail.",
+      "category": { "title": "Other stuff", "value": "other-stuff" },
+      "image": "/images/products/house.webp"
+    },
+    {
+      "id": 5,
+      "title": "Savory Kitten Chicken With Fresh Turkey",
+      "price": 695,
+      "description": "From our Legends Collection, the Naga was inspired by the mythical water dragon thaBalanced low grain dry food based on fresh turkey and chicken for kittens up to 12 months of age. Supplemented with healthy berries, fruits and vegetables for healthy growth and development, maintaining immunity and saturating the body with useful vitamins, fatty acids and minerals as efficiently as possible.",
+      "category": { "title": "Meal", "value": "meal" },
+      "image": "/images/products/savory.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Optimeal Cat Adult Sterilised Turkey ",
+      "price": 168,
+      "description": "Optimeal is an advanced line of cat and dog food designed specifically to support the health and longevity of the animal, providing the body with the necessary amount of energy and nutrients. Because every animal's needs are unique, the Optimeal range offers a variety of meats for every diet. Each diet is enriched under the supervision of veterinarians and contains only specially selected ingredients of the highest quality. All Optimeal foods are made using the technology of a Swiss company: Swiss Pet Nutrition Group GmbH.",
+      "category": { "title": "Meal", "value": "meal" },
+      "image": "/images/products/opti.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Club 4 paws Premium for sterilized cats",
+      "price": 9.99,
+      "description": "Complete dry food for adult sterilized cats. Provides your pet with all the necessary vitamins, minerals and nutrients. It helps to improve the functioning of the internal organs of the cat, as well as to maintain its optimal weight and beauty of the exterior.",
+      "category": { "title": "Meal", "value": "meal" },
+      "image": "/images/products/paws.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Grandorf Lamb and Brown Rice Puppy All Breeds from 3 weeks",
+      "price": 10.99,
+      "description": "Grandorf Lamb and Brown Rice Puppy All Breeds from 3 weeks - dry hypoallergenic food, holistic class for all breeds from 3 weeks with lamb meat and brown rice. The food is suitable for puppies from 3 weeks to 1 year, pregnant and lactating.",
+      "category": { "title": "Meal", "value": "meal" },
+      "image": "/images/products/grand.webp"
+    },
+    {
+      "id": 9,
+      "title": "Cat ball Wickedball Mini C0419",
+      "price": 64,
+      "description": "This automatic toy ball from the Cheerble brand can roll on its own and reacts to the movements of the cat. The Wickedball Mini has a brushed fiber finish and cool LED lighting. Such an original design should please the kitten's claws and attract his attention in order to play together. You do not need to connect the toy to the application or via bluetooth: you just need to turn it on and you can play.",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/ball1.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Interactive toy for dogs/cats Purlov 20386",
+      "price": 109,
+      "description": "PUZZLE - thanks to this game, your four-legged friend will develop the feelings of a seeker and a conqueror! In addition, this puzzle forms the process of concentration and accuracy in the animal, helps fight boredom, and also gives positive emotions. But the most important thing is that it gives him a lot of joy and carefree fun!",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/puzzl.webp"
+    },
+    {
+      "id": 11,
+      "title": "Nobleza - Interactive toy for dogs gray",
+      "price": 109,
+      "description": "Environmentally friendly material. Useful for developing the intelligence of pets. Lots of ways to play. Adjustable degree of difficulty. The toy has a flip-up lid where you can put dog biscuits or treats for your dog. The outer black covers have a lift and turn effect. Black covers are easily removed by paw or muzzle. The middle lid has a lifting and flipping effect. Once the dog removes the black lids, he can get to the treat.",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/noblezas.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Smart toy ball for cats and small dogs",
+      "price": 114,
+      "description": "The ball moves randomly, rolls and changes position, which is very attractive to cats and dogs. With just one touch of a button, the ball will rotate 360 degrees and will attract the attention of your pet. The ball will constantly move around your house, emitting light at the same time, which will attract the pet's attention even more.",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/ball2.webp"
+    },
+    {
+      "id": 13,
+      "title": "Bowls on a stand Lunch Bar Natural Wood",
+      "price": 599,
+      "description": "Bowls on a stand with a table top made of natural wood",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/bowl.webp"
+    },
+    {
+      "id": 14,
+      "title": "Catnip ball toy for cats shaped Avocado Green ",
+      "price": 999.99,
+      "description": "Contains energizing catnip extract",
+      "category": { "title": "Toys", "value": "toys" },
+      "image": "/images/products/myata.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Leash Petkit Travel Go Shine 3 m White (2001000043484)",
+      "price": 56.99,
+      "description": "Leash Petkit",
+      "category": { "title": "Accessories", "value": "accessories" },
+      "image": "/images/products/leash.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Cat and Dog Playpen Portable 73 cm Prefabricated Kitten and Puppy Enclosure Waterproof Brown",
+      "price": 29.95,
+      "description": "Waterproof tent playpen for dogs and cats, for newborn puppies and kittens from the well-known manufacturer Zmaker. A compact, wear-resistant enclosure measuring 73x73x43 cm will provide your animals with a comfortable stay, as well as safety, which is very important for the psychological state of pets.",
+      "category": { "title": "Accessories", "value": "womens-clothing" },
+      "image": "/images/products/dom.webp"
+    },
+    {
+      "id": 17,
+      "title": "Interactive dog bone Wickedbone C1702",
+      "price": 39.99,
+      "description": "Main features: Smartphone motion control, Easy to set up and control, Easy to clean replaceable silicone tips, 470 mAh battery capacity, Has 9 different movements",
+      "category": { "title": "Accessories", "value": "accessories" },
+      "image": "/images/products/kos.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Scratching post rag bed for cats 67x27x24 cm",
+      "price": 9.85,
+      "description": "❖ Completely safe for the health of the animal, preventing the problem of sticking and tearing of the claws (unlike a cord or sisal claw point), also prevent the problem of intestinal obstruction (which can form, for example, when swallowing threads that have fallen out during turning a cord or sisal claw point);",
+      "category": { "title": "Accessories", "value": "accessories" },
+      "image": "/images/products/kogt.webp"
+    },
+    {
+      "id": 19,
+      "title": "DOUBLE-SIDED DOOR FOR CATS AND SMALL DOGS..BLACK SIZE M (19.8X19X5.5CM)",
+      "price": 7.95,
+      "description": "Two-way door for cats and dogs, there are sizes S, M (like S in size, but wider - there is a tunnel) L and XL",
+      "category": { "title": "Accessories", "value": "accessories" },
+      "image": "/images/products/door.webp"
+    },
+    {
+      "id": 20,
+      "title": "Petoneer Smart Ordor Eliminator Pro (SU001)",
+      "price": 12.99,
+      "description": "Petoneer Smart Ordor Eliminator Pro (SU001) sterilizes the air and eliminates unpleasant odors around the cat litter box. The built-in generator converts oxygen from the air into ozone, decomposing odor molecules and destroying bacteria.",
+      "category": { "title": "Accessories", "value": "accessories" },
+      "image": "/images/products/neit.webp"
+    }
+  ],
+  "categories": [
+    {
+      "title": "Accessories",
+      "value": "accessories",
+      "image": "/images/categories/accesories.png"
+    },
+    {
+      "title": "Other stuff",
+      "value": "other-stuff",
+      "image": "/images/categories/other.jpg"
+    },
+    {
+      "title": "Toys",
+      "value": "toys",
+      "image": "/images/categories/toys.jpg"
+    },
+    {
+      "title": "Meal",
+      "value": "meal",
+      "image": "/images/categories/meal.jpg"
+    }
+  ],
+  "sortings": [
+    {
+      "title": "Price low to high",
+      "value": "price-asc",
+      "isDefault": true
+    },
+    {
+      "title": "Price high to low",
+      "value": "price-desc",
+      "isDefault": false
+    }
+  ],
+  "priceRanges": [
+    { "title": "Less than $10,00", "value": "0-10" },
+    { "title": "$10,00 - $50,00", "value": "10-50" },
+    { "title": "$50,00 - $100,00", "value": "50-100" },
+    { "title": "More than $100,00", "value": "100-max" }
+  ]
+}
